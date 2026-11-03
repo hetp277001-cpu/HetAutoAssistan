@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HET AUTO ASSISTANT</string>
+    <string name="accessibility_service_name">Het Auto Automation Service</string>
+    <string name="accessibility_service_description">Enables automated UI interaction and state verification for developer testing in authorized test environments.</string>
+    <string name="notification_channel_name">Automation Service</string>
+    <string name="notification_channel_desc">Shows active status and controls for the floating test panel.</string>
+    <string name="security_disclaimer">Notice: HET AUTO ASSISTANT is strictly an authorized testing assistant for developer-owned applications. It does not automate ads, fake signups, or bypass security controls.</string>
+</resources>

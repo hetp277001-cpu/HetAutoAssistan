@@ -1,0 +1,3 @@
+-keep class com.hetauto.assistant.data.entity.** { *; }
+-keep class com.google.mlkit.vision.** { *; }
+-dontwarn com.google.mlkit.**
